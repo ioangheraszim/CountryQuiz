@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background: repeating-linear-gradient(100deg, #393f6e 0%, #343964 10%);
+    height: 100vh;
+}
